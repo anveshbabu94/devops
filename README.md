@@ -1,2 +1,0 @@
-# devops
-classes of devops
